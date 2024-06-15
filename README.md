@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Artigo: O uso de linguagens de programação em áreas específicas 2023</h2>📖Aqui
+   <h2>Artigo: O uso de linguagens de programação em áreas específicas 2023</h2>
    <img src="https://img.shields.io/badge/Leitura-Artigo2023-purple"<a href="https://drive.google.com/file/d/18jKvWE53PZlYxHeb9HidzDvsQpvR_NnI/view?usp=sharing"/><br><br>
 </div>
 
