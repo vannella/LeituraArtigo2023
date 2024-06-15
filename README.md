@@ -1,5 +1,8 @@
 # ARTIGO: O uso de linguagens de programação em áreas específicas
 
+[Leia o artigo aqui](https://github.com/GiovanaMerces/LeituraArtigo2023/blob/main/Artigo%20linguagens%202023%20BSI.pdf)
+
+
 Este artigo foi elaborado por seis discentes do curso de Sistemas de Informação (SI), a pedido do professor de Estatística. Nosso objetivo foi analisar o Trabalho de Conclusão de Curso (TCC) de Gabriel Jurask, intitulado:
 
 *"UM ESTUDO SOBRE O USO DE LINGUAGENS DE PROGRAMAÇÃO E SOFTWARES UTILIZADOS NA INDÚSTRIA DE JOINVILLE E REGIÃO E SUA RELAÇÃO COM O PERFIL DO EGRESSO DO BACHARELADO EM CIÊNCIA E TECNOLOGIA DA UFSC CAMPUS JOINVILLE".*
