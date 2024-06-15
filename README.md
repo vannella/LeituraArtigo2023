@@ -1,4 +1,4 @@
-# Artigo: O uso de linguagens de programação em áreas específicas
+# Artigo: O uso de linguagens de programação em áreas específicas 2023
 
 [📖 Leia o artigo aqui](https://github.com/GiovanaMerces/LeituraArtigo2023/blob/main/Artigo%20linguagens%202023%20BSI.pdf)
 
