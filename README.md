@@ -1,6 +1,7 @@
-# Artigo: O uso de linguagens de programação em áreas específicas 2023
-
-[📖 Leia o artigo aqui](https://github.com/GiovanaMerces/LeituraArtigo2023/blob/main/Artigo%20linguagens%202023%20BSI.pdf)
+<div align="center">
+   <h2>Artigo: O uso de linguagens de programação em áreas específicas 2023</h2>📖Aqui
+   <img src="https://img.shields.io/badge/Leitura-Artigo2023-purple"<a href="https://drive.google.com/file/d/18jKvWE53PZlYxHeb9HidzDvsQpvR_NnI/view?usp=sharing"/><br><br>
+</div>
 
 
 Este artigo foi elaborado por seis discentes do curso de Sistemas de Informação (SI), a pedido do professor de Estatística. Nosso objetivo foi analisar o Trabalho de Conclusão de Curso (TCC) de Gabriel Jurask, intitulado:
