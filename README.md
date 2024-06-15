@@ -1,6 +1,6 @@
-# ARTIGO: O uso de linguagens de programação em áreas específicas
+# Artigo: O uso de linguagens de programação em áreas específicas
 
-[Leia o artigo aqui](https://github.com/GiovanaMerces/LeituraArtigo2023/blob/main/Artigo%20linguagens%202023%20BSI.pdf)
+[📖 Leia o artigo aqui](https://github.com/GiovanaMerces/LeituraArtigo2023/blob/main/Artigo%20linguagens%202023%20BSI.pdf)
 
 
 Este artigo foi elaborado por seis discentes do curso de Sistemas de Informação (SI), a pedido do professor de Estatística. Nosso objetivo foi analisar o Trabalho de Conclusão de Curso (TCC) de Gabriel Jurask, intitulado:
@@ -12,7 +12,7 @@ Este artigo foi elaborado por seis discentes do curso de Sistemas de Informaçã
 
 Realizei esta leitura em 2024 e percebi que, apesar da intenção inicial de produzir um artigo científico, o trabalho acabou se configurando como uma leitura crítica devido ao não seguimento estrito das diretrizes acadêmicas exigidas. O objetivo principal foi explorar os conteúdos de estatísticas aplicadas apresentados em sala de aula, com foco na análise de gráficos e resultados dentro do prazo estipulado. Por fim, buscou-se comparar as linguagens de programação mencionadas no artigo de 2019 com a realidade atual, quatro anos depois.
 
-**Autores:**
+**📝Autores:**
 *  Giovana Mercês
 * Romão Santos
 * Brytinei Brito
