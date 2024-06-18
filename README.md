@@ -9,6 +9,9 @@ Este artigo foi elaborado por seis discentes do curso de Sistemas de Informaçã
 
 <br>
 
+## **Observações:**
+Nosso estudo visou não apenas entender o cenário atual das linguagens de programação utilizadas na indústria local, mas também verificar a evolução dessas tecnologias ao longo dos últimos anos. Esperamos que esta análise contribua para futuras pesquisas e para o aprimoramento dos cursos de TI.
+
 **📝Autores:**
 *  Giovana Mercês
 * Romão Santos
@@ -16,9 +19,6 @@ Este artigo foi elaborado por seis discentes do curso de Sistemas de Informaçã
 *   Bruno
 *   Thiago Moreira
 * Gabriel Reis
-
-## **Observações:**
-Nosso estudo visou não apenas entender o cenário atual das linguagens de programação utilizadas na indústria local, mas também verificar a evolução dessas tecnologias ao longo dos últimos anos. Esperamos que esta análise contribua para futuras pesquisas e para o aprimoramento dos cursos de TI.
 
 ---
 
