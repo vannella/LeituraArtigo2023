@@ -12,7 +12,7 @@ Nosso estudo visou não apenas entender o cenário atual das linguagens de progr
 <br>
 
 **📝Autores:**
-*  Giovana Mercês
+*  Giovana Fernanda
 * Romão Santos
 * Brytinei Brito
 *   Bruno
