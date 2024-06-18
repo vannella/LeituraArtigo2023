@@ -21,7 +21,8 @@ Nosso estudo visou não apenas entender o cenário atual das linguagens de progr
 * Gabriel Reis
 
 ---
+**Importante**
 
-Realizei esta leitura em 2024 e percebi que, apesar da intenção inicial de produzir um artigo científico, o trabalho acabou se configurando como uma leitura crítica devido ao não seguimento estrito das diretrizes acadêmicas exigidas. O objetivo principal foi explorar os conteúdos de estatísticas aplicadas apresentados em sala de aula, com foco na análise de gráficos e resultados dentro do prazo estipulado. Por fim, buscou-se comparar as linguagens de programação mencionadas no artigo de 2019 com a realidade atual, quatro anos depois.
+Realizei esta leitura em 2024 e percebi que, apesar da intenção inicial de produzir um artigo científico, o trabalho acabou se configurando como uma **leitura crítica** devido ao não seguimento estrito das diretrizes acadêmicas exigidas. O objetivo principal foi explorar os conteúdos de estatísticas aplicadas apresentados em sala de aula, com foco na análise de gráficos e resultados dentro do prazo estipulado. Por fim, buscou-se comparar as linguagens de programação mencionadas no artigo de 2019 com a realidade atual, quatro anos depois.
   
 Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
