@@ -11,14 +11,18 @@ Nosso estudo visou não apenas entender o cenário atual das linguagens de progr
 
 <br>
 
+<div align="center">
+
 | **📝 Integrantes:**    | Funções                                        |
 |------------------------|------------------------------------------------|
-| Giovana Fernanda       | Escrita do Artigo / escolhas de referências    |
-| Romão Santos           | Referências tecnológicas / dados               |
-| Brytinei Brito         | Referências tecnológicas / dados               |
-| Bruno                  |                                                |
-| Thiago Moreira         | Cálculos / dados                               |
-| Gabriel Reis           |                                                |
+| **Giovana Fernanda**       | Escrita do Artigo / escolhas de referências    |
+| **Romão Santos**           | Referências tecnológicas / dados               |
+| **Brytinei Brito**         | Referências tecnológicas / dados               |
+| **Bruno**                  |                                                |
+| **Thiago Moreira**         | Cálculos / dados                               |
+| **Gabriel Reis**           |                                                |
+
+</div>
 
 <br> 
 
