@@ -38,4 +38,4 @@ Diante desta leitura, percebemos que as linguagens de programação atualmente e
 
 Achei importante compartilhar essa observação neste repositório para **fomentar a discussão e a exploração contínua das linguagens de programação.** No futuro, será interessante criar outra leitura aprimorada, comparando as tendências atuais com as do passado, a fim de proporcionar uma visão mais ampla e atualizada sobre as mudanças no panorama tecnológico. Esta prática não apenas enriquece nosso entendimento, mas também contribui para o avanço do conhecimento na área.
   
-Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
+Autora: [Giovana Fernanda](https://github.com/Vannella)
