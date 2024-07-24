@@ -37,5 +37,16 @@ Nosso estudo visou não apenas entender o cenário atual das linguagens de progr
 Diante desta leitura, percebemos que as linguagens de programação atualmente em uso diferem significativamente das que figuravam nos rankings anteriores. Isso é compreensível, uma vez que novas tendências emergem constantemente no mercado de trabalho e as profissões de tecnologia evoluem rapidamente. Embora o TCC de referência trate das linguagens de programação nas indústrias locais, nossos estudos mostram uma variação interessante, refletida nos rankings e outras análises.
 
 Achei importante compartilhar essa observação neste repositório para **fomentar a discussão e a exploração contínua das linguagens de programação.** No futuro, será interessante criar outra leitura aprimorada, comparando as tendências atuais com as do passado, a fim de proporcionar uma visão mais ampla e atualizada sobre as mudanças no panorama tecnológico. Esta prática não apenas enriquece nosso entendimento, mas também contribui para o avanço do conhecimento na área.
+
+<br>
   
-Autora: [Giovana Fernanda](https://github.com/Vannella)
+<div align="center">
+<h5>Feito por Vana💜</h5>
+ <a href="https://github.com/Vannella">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
+   </a>
+   
+   <a href="https://giovanavannela@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
+   </a>
+</div>
