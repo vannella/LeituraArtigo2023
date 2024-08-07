@@ -2,7 +2,7 @@
 
 👉🏻 Leia aqui o [Artigo PDF](https://drive.google.com/file/d/18jKvWE53PZlYxHeb9HidzDvsQpvR_NnI/view?usp=sharing)
 
-Este artigo foi elaborado por seis discentes do curso de Sistemas de Informação (SI), a pedido do professor de Estatística. Nosso objetivo foi **analisar o Trabalho de Conclusão de Curso** (TCC) de Gabriel Jurask, intitulado:
+Este artigo foi elaborado por discentes, a pedido do professor de Estatística. Nosso objetivo foi **analisar o Trabalho de Conclusão de Curso** (TCC) de Gabriel Jurask, intitulado:
 
 *"um estudo sobre o uso de linguagens de programação e softwares utilizados na indústria de joinville e região e sua relação com o perfil do egresso do bacharelado em ciência e tecnologia da ufsc campus joinville".*
 [TCC referência](https://repositorio.ufsc.br/handle/123456789/197462)
