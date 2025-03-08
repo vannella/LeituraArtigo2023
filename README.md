@@ -32,8 +32,5 @@ Achei importante compartilhar essa observação neste repositório para **foment
  <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
-   
-   <a href="https://giovanavannela@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
-   </a>
+ 
 </div>
