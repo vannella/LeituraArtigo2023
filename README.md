@@ -1,8 +1,8 @@
-## Artigo: O uso de linguagens de programação em áreas específicas 2023
+## leitura crítica: O uso de linguagens de programação em áreas específicas 2023
 
 👉🏻 Leia aqui o [Artigo PDF](https://drive.google.com/file/d/18jKvWE53PZlYxHeb9HidzDvsQpvR_NnI/view?usp=sharing)
 
-Este artigo foi elaborado por discentes, a pedido do professor de Estatística. Nosso objetivo foi **analisar o Trabalho de Conclusão de Curso** (TCC) de Gabriel Jurask, intitulado:
+Objetivo foi **analisar o Trabalho de Conclusão de Curso** (TCC) de Gabriel Jurask, intitulado:
 
 *"um estudo sobre o uso de linguagens de programação e softwares utilizados na indústria de joinville e região e sua relação com o perfil do egresso do bacharelado em ciência e tecnologia da ufsc campus joinville".*
 [TCC referência](https://repositorio.ufsc.br/handle/123456789/197462)
@@ -15,7 +15,7 @@ Nosso estudo visou não apenas entender o cenário atual das linguagens de progr
 
  ## ❗ Importante
 
-**Realizei esta leitura em 2024** e percebi que, apesar da intenção inicial de produzir um artigo científico, o trabalho acabou se configurando como uma **leitura crítica** devido ao não seguimento estrito das diretrizes acadêmicas exigidas. O objetivo principal foi explorar os conteúdos de estatísticas aplicadas apresentados em sala de aula, com foco na análise de gráficos e resultados dentro do prazo estipulado. Por fim, buscou-se comparar as linguagens de programação mencionadas no artigo de 2019 com a realidade atual, quatro anos depois (2023).
+A leitura foi elaborado por discentes de Ti; a ideia principal foi explorar os conteúdos de estatísticas aplicadas apresentados em sala de aula, com foco na análise de gráficos e resultados dentro do prazo estipulado. Por fim, buscou-se comparar as linguagens de programação mencionadas no artigo de 2019 com a realidade atual, quatro anos depois.
 
 <br>
 
