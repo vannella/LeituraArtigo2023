@@ -1,6 +1,6 @@
 ## leitura crítica: O uso de linguagens de programação em áreas específicas 2023
 
-👉🏻 Leia aqui o [Artigo PDF](https://github.com/vannella/LeituraArtigo2023/blob/acdcc6d4d8f97f9d2697002a9bfc3146d46902de/Artigo%20linguagens%202023%20BSI.pdf)
+👉🏻 Leia aqui o [Artigo PDF](https://github.com/vannella/LeituraArtigo2023/blob/515b847c7d4f1c3bced1fea4b235a84f5ff8fc63/Artigo%20linguagens%202023%20-%20Documentos%20Google.pdf)
 
 Objetivo foi **analisar o Trabalho de Conclusão de Curso** (TCC) de Gabriel Jurask, intitulado:
 
