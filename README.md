@@ -1,6 +1,6 @@
 ## leitura crítica: O uso de linguagens de programação em áreas específicas 2023
 
-👉🏻 Leia aqui o [Artigo PDF](https://drive.google.com/file/d/18jKvWE53PZlYxHeb9HidzDvsQpvR_NnI/view?usp=sharing)
+👉🏻 Leia aqui o [Artigo PDF](https://drive.google.com/file/d/1SfYapTtI7-cAv_XYjpggFWPOwlvHtYGr/view?usp=sharing)
 
 Objetivo foi **analisar o Trabalho de Conclusão de Curso** (TCC) de Gabriel Jurask, intitulado:
 
